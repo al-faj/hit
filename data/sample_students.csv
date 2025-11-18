@@ -1,0 +1,5 @@
+student_id,name,grade_level,class_id,attendance_percent,avg_marks_last_term,math_marks,english_marks,science_marks,extra_curricular_hours_per_week,behavior_warnings,previous_failures,homework_submission_rate,final_label
+S001,Alice,10,A,85,78,80,75,79,2,0,0,95,0
+S002,Bob,10,A,60,45,50,42,43,1,1,0,60,1
+S003,Charlie,9,B,40,35,30,33,42,0,2,1,40,1
+S004,David,11,B,90,88,90,85,92,3,0,0,98,0
